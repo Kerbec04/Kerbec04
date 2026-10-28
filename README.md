@@ -8,6 +8,9 @@
 
   <br><br>
 
+  <a href="https://www.linkedin.com/in/cesar-kerber/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://stakdigital.com.br">
     <img src="https://img.shields.io/badge/STAK_Digital-185FA5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="STAK Digital" />
   </a>
